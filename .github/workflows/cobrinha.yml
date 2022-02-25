@@ -1,6 +1,6 @@
 nome : Gerar Dados
 
-em :
+on :
   schedule : # executa a cada 12 horas
     - cron: "* */12 * * *"
   workflow_dispatch :
