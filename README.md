@@ -1,4 +1,4 @@
-### Olá!! Eu sou a Ester Maira.
+## Olá!! Eu sou a Ester Maira.
 
 - 🔭 Hoje se especializando em Full-Stack
 - 🌱 Estudando C# e .NET
@@ -6,8 +6,8 @@
 
 <div>
   <a href = " https://github.com/estmaira ">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=estmaira&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=estmaira&layout=compact&langs_count=16&theme=dark" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=estmaira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=estmaira&layout=compact&langs_count=16&theme=dracula" />
 </div>
 
 <div styles="display: inline_block"><br>
