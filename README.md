@@ -1,8 +1,8 @@
 ## Olá!! Eu sou a Ester Maira.
 
-- 🔭 Hoje se especializando em Full-Stack
-- 🌱 Estudando C# e .NET
-- 😄 Pronouns: ela/dela
+- 🔭 Hoje se especializando em Back-End
+- 🌱 Estudando C#|.NET|Node.js|JavaScript
+- 😄 Pronouns: Ela/Dela ou Ele/Dele
 
 <div>
   <a href = " https://github.com/estmaira ">
